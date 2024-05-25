@@ -66,7 +66,7 @@ Ensure you have Python 3.11.6 and the required libraries installed.
 
 Navigate to the project directory in your terminal/cmd.
 
-Execute the script using:  python main.py or python3 main.py
+Execute the script using:  ### python main.py or ### python3 main.py
 
 Once data is scraped, the script will ask for PostgreSQL username, host, password and port on which the server is listening.
 

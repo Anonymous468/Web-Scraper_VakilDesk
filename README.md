@@ -16,7 +16,7 @@ URL 3: https://www.scrapethissite.com/pages/advanced/  (Login required, function
 
 # Scraped Data:
 
-Data extracted from each URL will be stored in separate tables within the PostgreSQL database.
+Data extracted from each URL will be stored in separate tables within the 'postgres' database of PostgreSQL.
 
 films (for URL 1)
 
@@ -34,7 +34,7 @@ logs_url2.log (for URL 2)
 
 logs_url3.log (for URL 3)
 
-#Technical Specifications:
+# Technical Specifications:
 
 Programming Language: Python 3.11.6
 
